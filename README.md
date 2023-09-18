@@ -1,1 +1,2 @@
 # Project_03
+Looking at the Project We firstly run the program and you then register an account with your email and password. After you are done registering the account you go back to the login and enter the details you have just registered. Then you have the option to look at Customer, Products and Orders iteams in the database then you can perform operations like delete, Edit and Retrieve/Get on those tables in the database.
