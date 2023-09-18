@@ -31,7 +31,7 @@ namespace Controllers
 
             return View(results);
         }
-
+        //Controller
         // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
